@@ -1,6 +1,5 @@
 # Toodles
 Toodles is a SwiftUI-based To-Do List app that allows you to manage tasks efficiently. You can perform CRUD operations like add, edit, delete, and mark tasks as completed. 
-The app uses Core Data for local storage, ensuring that the tasks are saved and accessible even when the app is closed.
 
 Features:
 - ➕ Add Task : Add new goals to accomplish
